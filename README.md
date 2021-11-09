@@ -1,1 +1,4 @@
-# funcao-em-php-para-validar-cep
+# função em php para validar CEP
+```
+Deve ser no formato #####-###
+```
